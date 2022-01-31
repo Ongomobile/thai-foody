@@ -1,24 +1,14 @@
-# thai-foody
+# Thai Foody
 
-## Project setup
-```
-npm install
-```
+![Project Image](https://res.cloudinary.com/dnpje4e34/image/upload/v1643588813/thai-foody-logo_z4rjz0.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+---
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Description
 
-### Lints and fixes files
-```
-npm run lint
-```
+Thai Foody is a place to share the love of Thai food.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### Technologies
+
+- Vue
+- Firebase
